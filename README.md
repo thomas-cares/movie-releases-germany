@@ -1,6 +1,6 @@
 # movie-releases-germany
 scraping for upcoming theatrical film releases in Germany.
-creating a data frame containing:
+creating a clean data frame containing:
 - release date
 - film title
 - director
