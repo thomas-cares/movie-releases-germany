@@ -14,7 +14,7 @@ creating a clean data frame containing:
 
 ### last added:
 - searching youtube for the respective movie trailer by title and director name and returning youtube-link
-- lets you chose how many weeks upcoming weeks you want to scrape for releases
+- lets you chose how many upcoming weeks you want to scrape for releases
 - exports an excel and csv file
 - rings a bell when script is finished as it may take a couple of minutes before the scraping is done
 
