@@ -7,7 +7,7 @@ creating a data frame containing:
 - actors
 - countries of production
 - year of production
-- distribution country in Germany
+- distribution company in Germany
 - link to film still (2560x1440px)
 
 last added:
