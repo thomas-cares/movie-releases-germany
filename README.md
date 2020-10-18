@@ -1,7 +1,7 @@
 # movie-releases-germany
 
 ### what's happening
-scraping for upcoming theatrical film releases in Germany.
+scraping for upcoming theatrical film releases in Germany, 
 creating a clean data frame containing:
 - release date
 - film title
@@ -28,6 +28,6 @@ So please be cautious relying on the "trailer"-column.
 jupyter notebook: 
 running all cells you will be asked how many upcoming weeks you want to scrape
 
-folder exported_files:
+### folder exported_files:
 here you'll find an example excel and csv file giving you an idea how the export looks like.
 also the jupyter notebook python code is set up to create a folder 'exported_files' to drop the resulting excel and csv with datestamp there.
