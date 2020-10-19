@@ -17,6 +17,7 @@ creating a clean data frame containing:
 - lets you choose how many upcoming weeks you want to scrape for releases
 - exports an excel and csv file
 - rings a bell when script is finished as it may take a couple of minutes before the scraping is done
+- option to auto attach the exported excel to an email and send it.
 
 ### please note:
 the script searches youtube by film title, director name, name of distribution company and the word 'trailer'.
